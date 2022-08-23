@@ -4,7 +4,7 @@ import java.sql.*;
 
 
 /**
- * RETO #5 Oscar  B
+ * RETO #5 Oscar  B 
  */
 
 public class consultas {
